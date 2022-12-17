@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  left: 0px;
+  top: 0px;
+  background: #000000;
+}
+
+.heading1 {
+
+  width: 100%;
+  height: 100%;
+  left: 418px;
+  top: 101px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 100px;
+  line-height: 121px;
+  color: #FFFFFF;
+}
+
+#find-me {
+
+  width: 260.75px;
+  height: 58px;
+  margin-left: 25%;
+  top: 479px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center;
+  color: #000000;
+}
